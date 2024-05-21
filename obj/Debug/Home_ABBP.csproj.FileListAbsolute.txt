@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Home_ABBP\bin\Debug\Home_ABBP.exe.config
+C:\Users\user\source\repos\Home_ABBP\bin\Debug\Home_ABBP.exe
+C:\Users\user\source\repos\Home_ABBP\bin\Debug\Home_ABBP.pdb
+C:\Users\user\source\repos\Home_ABBP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\user\source\repos\Home_ABBP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\user\source\repos\Home_ABBP\obj\Debug\Home_ABBP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Home_ABBP\obj\Debug\Home_ABBP.Main_Dispaly.resources
+C:\Users\user\source\repos\Home_ABBP\obj\Debug\Home_ABBP.Properties.Resources.resources
+C:\Users\user\source\repos\Home_ABBP\obj\Debug\Home_ABBP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Home_ABBP\obj\Debug\Home_ABBP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Home_ABBP\obj\Debug\Home_ABBP.csproj.Up2Date
+C:\Users\user\source\repos\Home_ABBP\obj\Debug\Home_ABBP.exe
+C:\Users\user\source\repos\Home_ABBP\obj\Debug\Home_ABBP.pdb

@@ -36,7 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Main_Dispaly";
-            this.Text = "Form1";
+            this.Text = "Home ABBP";
             this.Load += new System.EventHandler(this.Main_Dispaly_Load);
             this.ResumeLayout(false);
 

@@ -28,20 +28,56 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.monthly = new System.Windows.Forms.Label();
+            this.prev_month_btn = new System.Windows.Forms.Button();
+            this.next_month_btn = new System.Windows.Forms.Button();
+            this.amount_num = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // label1
+            // monthly
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(40, 44);
-            this.label1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(197, 39);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "0123456789";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.monthly.AutoSize = true;
+            this.monthly.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.monthly.Location = new System.Drawing.Point(51, 14);
+            this.monthly.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.monthly.Name = "monthly";
+            this.monthly.Size = new System.Drawing.Size(97, 24);
+            this.monthly.TabIndex = 0;
+            this.monthly.Text = "yyyy.MM";
+            this.monthly.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // prev_month_btn
+            // 
+            this.prev_month_btn.Location = new System.Drawing.Point(12, 12);
+            this.prev_month_btn.Name = "prev_month_btn";
+            this.prev_month_btn.Size = new System.Drawing.Size(30, 30);
+            this.prev_month_btn.TabIndex = 1;
+            this.prev_month_btn.Text = "◀";
+            this.prev_month_btn.UseVisualStyleBackColor = true;
+            // 
+            // next_month_btn
+            // 
+            this.next_month_btn.Location = new System.Drawing.Point(157, 12);
+            this.next_month_btn.Name = "next_month_btn";
+            this.next_month_btn.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.next_month_btn.Size = new System.Drawing.Size(30, 30);
+            this.next_month_btn.TabIndex = 2;
+            this.next_month_btn.Text = "▶";
+            this.next_month_btn.UseVisualStyleBackColor = true;
+            this.next_month_btn.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // amount_num
+            // 
+            this.amount_num.AutoSize = true;
+            this.amount_num.BackColor = System.Drawing.Color.Transparent;
+            this.amount_num.Font = new System.Drawing.Font("Century Gothic", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.amount_num.Location = new System.Drawing.Point(27, 45);
+            this.amount_num.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.amount_num.Name = "amount_num";
+            this.amount_num.Size = new System.Drawing.Size(160, 58);
+            this.amount_num.TabIndex = 3;
+            this.amount_num.Text = "12345";
+            this.amount_num.Click += new System.EventHandler(this.label2_Click);
             // 
             // Main_Dispaly
             // 
@@ -49,9 +85,13 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(584, 399);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.amount_num);
+            this.Controls.Add(this.next_month_btn);
+            this.Controls.Add(this.prev_month_btn);
+            this.Controls.Add(this.monthly);
+            this.Cursor = System.Windows.Forms.Cursors.SizeAll;
             this.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Main_Dispaly";
             this.Text = "Home ABBP";
             this.Load += new System.EventHandler(this.Main_Dispaly_Load);
@@ -62,7 +102,10 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label monthly;
+        private System.Windows.Forms.Button prev_month_btn;
+        private System.Windows.Forms.Button next_month_btn;
+        private System.Windows.Forms.Label amount_num;
     }
 }
 

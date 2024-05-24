@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Home_ABBP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|c:\\users\\user\\source\\repos\\home_abbp\\main_dispaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|solutionrelative:main_dispaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|c:\\users\\user\\source\\repos\\home_abbp\\editlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|solutionrelative:editlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|C:\\Users\\user\\source\\repos\\Home_ABBP\\main_dispaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|solutionrelative:main_dispaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|c:\\users\\user\\source\\repos\\home_abbp\\editlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|solutionrelative:editlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|c:\\users\\user\\source\\repos\\home_abbp\\editlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|solutionrelative:editlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|c:\\users\\user\\source\\repos\\home_abbp\\maindispaly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|solutionrelative:maindispaly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|c:\\users\\user\\source\\repos\\home_abbp\\maindispaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|solutionrelative:maindispaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|c:\\users\\user\\source\\repos\\home_abbp\\maindispaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD6864-918C-47BF-B0E3-03B6B558AA2F}|Home_ABBP.csproj|solutionrelative:maindispaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,25 +42,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main_Dispaly.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home_ABBP\\Main_Dispaly.cs",
-              "RelativeDocumentMoniker": "Main_Dispaly.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Home_ABBP\\Main_Dispaly.cs",
-              "RelativeToolTip": "Main_Dispaly.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAADgvykAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "EditList.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home_ABBP\\EditList.cs",
+              "RelativeDocumentMoniker": "EditList.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home_ABBP\\EditList.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "EditList.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T02:12:18.798Z",
+              "WhenOpened": "2024-05-24T04:45:40.314Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditList.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home_ABBP\\EditList.Designer.cs",
+              "RelativeDocumentMoniker": "EditList.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home_ABBP\\EditList.Designer.cs",
+              "RelativeToolTip": "EditList.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAtwDUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:46:02.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main_Dispaly.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home_ABBP\\Main_Dispaly.cs",
-              "RelativeDocumentMoniker": "Main_Dispaly.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Home_ABBP\\Main_Dispaly.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "Main_Dispaly.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentIndex": 1,
+              "Title": "EditList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home_ABBP\\EditList.cs",
+              "RelativeDocumentMoniker": "EditList.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home_ABBP\\EditList.cs",
+              "RelativeToolTip": "EditList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:57:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainDispaly.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home_ABBP\\MainDispaly.cs",
+              "RelativeDocumentMoniker": "MainDispaly.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home_ABBP\\MainDispaly.cs",
+              "RelativeToolTip": "MainDispaly.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:54:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainDispaly.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home_ABBP\\MainDispaly.Designer.cs",
+              "RelativeDocumentMoniker": "MainDispaly.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home_ABBP\\MainDispaly.Designer.cs",
+              "RelativeToolTip": "MainDispaly.Designer.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAtwL0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:50:32.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainDispaly.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home_ABBP\\MainDispaly.cs",
+              "RelativeDocumentMoniker": "MainDispaly.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home_ABBP\\MainDispaly.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "MainDispaly.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T02:01:26.28Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"

@@ -17,7 +17,7 @@ namespace Home_ABBP
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main_Dispaly());
+            Application.Run(new MainDispaly());
         }
     }
 }
